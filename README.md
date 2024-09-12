@@ -5,6 +5,14 @@ Tailored for IB and Casio fx-CG50. Slight changes might be neccesary for other c
 
 Scripts are categorized by subjects
 
+# How to use
+
+* Download repository
+* Connect calculator to PC
+* Copy everything besides `README.md` and `LICENSE` to calculator
+* Open `Python` app on your calculator
+* Select script that you would like to run
+
 # CHEM
 
 | Script name | Purpose |
