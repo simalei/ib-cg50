@@ -6,6 +6,7 @@ Tailored for IB and Casio fx-CG50. Slight changes might be neccesary for other c
 Scripts are categorized by subjects
 
 # CHEM
+
 |  Script name  |  Purpose                                                                   |
 | ------------------------------------------------------------------------------------------ |
 |  AAM.py       |  Calculate average atomic mass knowing isotopes and their abundance        |
