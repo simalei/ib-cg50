@@ -7,7 +7,8 @@ Scripts are categorized by subjects
 
 # CHEM
 
-|  Script name  |  Purpose                                                                   |
-| ------------------------------------------------------------------------------------------ |
-|  AAM.py       |  Calculate average atomic mass knowing isotopes and their abundance        |
-|  ISABUN.py    |  Calculate the % abundance of isotopes knowing their atomic mass and AAM   |
+| Script name | Purpose |
+|--|--|
+| AAM.py | Calculate average atomic mass knowing isotopes and their abundance |
+| ISABUN.py | Calculate the % abundance of isotopes knowing their atomic mass and AAM |
+
