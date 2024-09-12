@@ -9,18 +9,16 @@ while not fin:
     except ValueError:
         fin = True
     else:
-        ratio = float(input("I" + str(i) + " %: "))
+        ratio = float(input("I" + str(i) + " R: "))
         isotopes.append((mass, ratio))
         i = i + 1
 
 
 int_sum = 0.0
+t = 0.0
 
 for pair in isotopes:
     int_sum = int_sum + pair[0] * pair[1]
+    t = t + pair[1]
 
-print("AAM:", int_sum/100)
-
-    
-
-    
+print("AAM:", int_sum/t)
